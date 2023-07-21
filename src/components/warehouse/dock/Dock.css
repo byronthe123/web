@@ -1,0 +1,8 @@
+.awb-arrows {
+    font-size: 50px;
+}
+
+.awb-arrows:hover {
+    cursor: pointer;
+    color: green;
+}

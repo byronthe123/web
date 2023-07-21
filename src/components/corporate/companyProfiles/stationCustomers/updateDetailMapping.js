@@ -1,0 +1,19 @@
+export default [
+    'id',
+    's_status',
+    'd_switch',
+    'f_import_isc_cost',
+    'f_import_isc_cost_previous',
+    'f_import_per_kg',
+    'f_import_per_kg_previous',
+    'f_import_min_charge',
+    'f_import_min_charge_previous',
+    's_import_distribution_email',
+    's_firms_code',
+    'i_import_sla_cao_breakdown_min',
+    'i_import_sla_pax_breakdown_min',
+    'i_export_sla_cao_cut_off_min',
+    'i_export_sla_pax_cut_off_min',
+    'i_export_sla_cao_uws_min',
+    'i_export_pax_uws_min'
+]

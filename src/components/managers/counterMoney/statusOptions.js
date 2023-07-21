@@ -1,0 +1,1 @@
+export default ['PROCESSED', 'RECEIVED', 'NOT RECEIVED', 'DELETED'];

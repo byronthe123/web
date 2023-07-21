@@ -1,0 +1,61 @@
+
+.bg-grey-content {
+    background-color: #141414;
+}
+
+.waiting-time {
+    font-size: 4vw;
+}
+
+.waiting-time-absolute {
+    position: absolute;
+    right: 10%;
+}
+
+.processing-ownership-time {
+    position: absolute;
+}
+
+.text-blue {
+    color: #007bff;
+}
+
+.progress-bar-position {
+    position: absolute;
+    bottom: 10%;
+    left: 1%;
+}
+
+.stats-row-height {
+    height: 35vh;
+}
+
+.customer-stats-bg {
+    background-color: #061a47;
+}
+
+.awbs-stats-bg {
+    background-color: #361b4f;
+}
+
+.container {
+    position: relative;
+}
+
+.element {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%)
+}
+
+.type-count {
+    font-size: 22px;
+}
+
+.display-block {
+    display: block !important;
+}
+
+.gold-color {
+    color: gold;
+}

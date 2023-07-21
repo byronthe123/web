@@ -1,0 +1,21 @@
+export default [
+    's_email',
+    's_unit',
+    'i_employee_number',
+    's_first_name',
+    's_last_name',
+    's_phone_num',
+    's_job_title',
+    's_department',
+    's_status',
+    'd_terminated',
+    'd_suspended_start',
+    'd_suspended_end',
+    'd_furlough_start',
+    'd_furlough_end',
+    'i_access_level',
+    'b_internal',
+    'b_airline',
+    's_work_type',
+    'd_hire'
+]
